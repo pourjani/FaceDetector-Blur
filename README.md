@@ -14,6 +14,8 @@ Make sure you have the following installed:
 - OpenCV (`opencv-python`)
 - NumPy
 - Jupyter Notebook
+  
+
 # 🤖 Real-Time Face Blur with OpenCV DNN
 
 This project detects human faces in real-time using OpenCV's Deep Neural Network (DNN) module and applies a Gaussian blur to those regions. It's useful for protecting privacy in images or webcam video streams.
@@ -36,7 +38,13 @@ Here's a real-time demonstration of the face blur in action:
 ![Face Blur Demo](demo.gif)
 
 ---
+## 🖼️ Example Output on Static Image
 
+Here’s the result of applying the face blur function on a sample image:
+
+![Output Static Image](output_static_image.png)
+
+---
 ## 🧠 How It Works
 
 1. The image is passed through a pre-trained DNN face detector.
