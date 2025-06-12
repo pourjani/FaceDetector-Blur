@@ -1,21 +1,3 @@
-# Real_time_face_detection
-This project demonstrates how to use OpenCV and Haar Cascades to perform real-time face detection via webcam.
-## 🔍 Features
-
-- 🎥 Real-time webcam access (via OpenCV)
-- 😃 Face detection using Haar cascades
-## 🚀 Getting Started
-
-### 🔧 Requirements
-
-Make sure you have the following installed:
-
-- Python 3.x
-- OpenCV (`opencv-python`)
-- NumPy
-- Jupyter Notebook
-  
-
 # 🤖 Real-Time Face Blur with OpenCV DNN
 
 This project detects human faces in real-time using OpenCV's Deep Neural Network (DNN) module and applies a Gaussian blur to those regions. It's useful for protecting privacy in images or webcam video streams.
